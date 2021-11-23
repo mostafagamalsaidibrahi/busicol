@@ -1,0 +1,522 @@
+/* Rules */
+/* Starting Of Head Of Page */
+.main-div{
+    background-image: url(../images/banner2.png);
+    background-size: cover;
+    height: 700px;
+}
+.main-div .cover{
+    background-color: #04040447;
+    height: 700px;
+}
+.main-div .cover .container-fluid{
+    background-color: #00000091;
+    padding: 10px;
+}
+.main-div .cover .container-fluid .container .row .icons1 a{
+    color: white;
+    text-decoration: none;
+}
+.main-div .cover .container-fluid .container .row .icons1 a:hover{
+    color: #28AE60;
+    text-decoration: none;
+}
+.main-div .cover .container-fluid .container .row .icons1 i{
+    margin-left: 15px;
+}
+.main-div .cover .container-fluid .container .row .icons2 i{
+    color: #28AE60;
+    margin-right: 50px;
+}
+.main-div .cover .container-fluid .container .row .icons2 i > span{
+    color: white;
+    margin-left: 10px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+/* Ending Of Head Of Page */
+
+/* Strating Of Navbar*/
+.main-div .cover .navbar-section{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #4B4E50;
+}
+#navbarSupportedContent form i{
+    font-size: 18px;
+    margin-right: 20px;
+    color: white;
+}
+#navbarSupportedContent form button{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #28AE60;
+    border: 1px solid #28AE60;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link{
+    color: white;
+    font-family: Impact, Charcoal, sans-serif;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #28AE60;
+    font-family: Impact, Charcoal, sans-serif;
+}
+/* Ending Of Navbar */
+
+/* Starting Of words On Screen */
+.main-div .cover .data .row .head{
+    margin-top: 180px;
+}
+.main-div .cover .data .row .head h1{
+    color: #FFF;
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-weight: 400;
+    line-height: 62px;
+}
+.main-div .cover .data .row .head p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #D5D5D5;
+    margin-bottom: 24px;
+    margin-top: 10px;
+}
+.main-div .cover .data .row .head a{
+    text-decoration: none;
+}
+.main-div .cover .data .row .head .btn1{
+    background-color: #28AE60;
+    color: white;
+    border: 1px solid #28AE60;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: 20px;
+}
+.main-div .cover .data .row .head .btn2{
+    background:none;
+    color: white;
+    border: 1px solid #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.main-div .cover .data .row .head .btn2:hover{
+    background-color: #28AE60;
+    color: white;
+    border: 1px solid #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+/* Ending Of Words On Screen */
+
+/* Starting Of Second Section */
+.explore-section{
+    padding-top: 100px;
+}
+.explore-section .explore-products{
+    padding-top: 100px;
+}
+.explore-section .explore-products .invoicing .image1{
+    background-image: url(../images/1.png);
+    height: 300px;
+    background-size: cover;
+}
+.explore-section .explore-products .invoicing .image1 .display{
+    background-color: #28AE60;
+    height: 300px;
+}
+.explore-section .explore-products .invoicing .image1 .cover-img1{
+    background-color: #0000004a;
+    height: 300px;
+}
+.explore-section .explore-products .invoicing .image1 .cover-img1:hover{
+    background-color: #28AE60;
+    height: 300px;
+}
+.explore-section .explore-products .invoicing .image1 .cover-img1 > i{
+    margin-top: 100px;
+    font-size: 80px;
+    color: white;
+}
+.explore-section .explore-products .invoicing .image1 .cover-img1 > p{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.explore-section .explore-products .growth .image2{
+    background-image: url(../images/2.png);
+    height: 300px;
+    background-size: cover;
+}
+.explore-section .explore-products .growth .image2 .display{
+    background-color: #28AE60;
+    height: 300px;
+}
+.explore-section .explore-products .growth .image2 .cover-img1{
+    background-color: #0000004a;
+    height: 300px;
+}
+.explore-section .explore-products .growth .image2 .cover-img1:hover{
+    background-color: #28AE60;
+    height: 300px;
+}
+.explore-section .explore-products .growth .image2 .cover-img1 > i{
+    margin-top: 100px;
+    font-size: 80px;
+    color: white;
+}
+.explore-section .explore-products .growth .image2 .cover-img1 > p{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.explore-section .explore-products .problem .image3{
+    background-image: url(../images/3.png);
+    height: 300px;
+    background-size: cover;
+}
+.explore-section .explore-products .problem .image3 .display{
+    background-color: #28AE60;
+    height: 300px;
+}
+.explore-section .explore-products .problem .image3 .cover-img1{
+    background-color: #0000004a;
+    height: 300px;
+}
+.explore-section .explore-products .problem .image3 .cover-img1:hover{
+    background-color: #28AE60;
+    height: 300px;
+}
+.explore-section .explore-products .problem .image3 .cover-img1 > i{
+    margin-top: 100px;
+    font-size: 80px;
+    color: white;
+}
+.explore-section .explore-products .problem .image3 .cover-img1 > p{
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+/* Ending Of Second Section */
+
+/* Starting Business Export Section */
+.business-export{
+    padding-top: 100px;
+}
+.business-export .row .img{
+    height: 500px;
+    background-image: url(../images/about.png);
+
+}
+.business-export .row .details{
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.business-export .row .details p{
+    font-size: 20px;
+    color: #727272;
+}
+.business-export .row .details p > span{
+    margin-right: 20px;
+}
+.business-export .row .details p > span > i{
+    color:#28AE60 ;
+    font-size: 20px;
+}
+.business-export .row .details button{
+    background-color: #28AE60;
+    color: white;
+    border: 1px solid #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 13px 46px 14px 46px;
+    margin-top: 50px;
+}
+/* Ending Of Business Export Section */
+/* Starting Of Success Of Job's Ration */
+.ration{
+    background-color: #F5FBFF;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.ration .row .total_proj{
+    height: 100px;
+    text-align: center;
+}
+.ration .row .on_going_proj{
+    height: 100px;
+    text-align: center;
+}
+.ration .row .job_success{
+    height: 100px;
+    text-align: center;
+}
+.ration .row .total_proj > h1 , .ration .row .on_going_proj > h1 , .ration .row .job_success > h1{
+    font-size: 50px;
+    color: #2C2C2C;
+    font-weight: 400;
+}
+.ration .row .total_proj > p , .ration .row .on_going_proj > p , .ration .row .job_success > p{
+    font-size: 16px;
+    color: #919191;
+    font-weight: 400;
+}
+/* Ending Of Success Of Job's Ration */
+
+/* Starting Of Problem Solving Section */
+.problem-solving .mainImage{
+    background-image: url(../images/about_bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.problem-solving .mainImage .content-image{
+    background-color: #000000ba;
+}
+.problem-solving .mainImage .content-image .content{
+    padding: 40px;
+    margin-top: 40px;
+}
+.problem-solving .mainImage .content-image .content .row{
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.problem-solving .mainImage .content-image .content .row .box1 .unlimited-control ,
+.problem-solving .mainImage .content-image .content .row .box2 .rapidly ,
+.problem-solving .mainImage .content-image .content .row .box3 .solving{
+    background:none;
+    border: 1px solid #ffffff;
+    padding: 50px;
+}
+.problem-solving .mainImage .content-image .content .row .box1 .unlimited-control >img ,
+.problem-solving .mainImage .content-image .content .row .box2 .rapidly >img ,
+.problem-solving .mainImage .content-image .content .row .box3 .solving >img{
+    margin-bottom: 30px;
+}
+.problem-solving .mainImage .content-image .content .row .box1 .unlimited-control >h4 ,
+.problem-solving .mainImage .content-image .content .row .box2 .rapidly >h4 ,
+.problem-solving .mainImage .content-image .content .row .box3 .solving >h4{
+    margin-bottom: 30px;
+    color: #FFF;
+}
+.problem-solving .mainImage .content-image .content .row .box1 .unlimited-control >p ,
+.problem-solving .mainImage .content-image .content .row .box2 .rapidly >p ,
+.problem-solving .mainImage .content-image .content .row .box3 .solving >p{
+    font-size: 16px;
+    line-height: 28px;
+    color: #D5D5D5;
+    margin-bottom: 0;
+}
+
+/* Ending Of Problem Solving Section */
+
+/* Starting Of Financial Section */
+.financial .row{
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.financial .row .words{
+margin-top: 100px;
+}
+.financial .row .words > h1{
+    font-size: 36px;
+    line-height: 55px;
+    font-weight: 400;
+    color: #2C2C2C;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.financial .row .words > p{
+    font-size: 18px;
+    color: #727272;
+    margin-bottom: 0;
+    text-align: left;
+}
+.financial .row .desc-img > img{
+    width: 450px;
+
+}
+/* Ending Of Financial Section */
+
+/* Starting Of Any Project Section */
+.any-project{
+    background-color: #207b46;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.any-project h1{
+    color: #fff;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 55px;
+}
+.any-project p{
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 26px;
+    margin-top: 8px;
+}
+.any-project button{
+    padding: 13px 40px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    background: none;
+    color: #FFF;
+    text-transform: capitalize;
+}
+.any-project button:hover{
+    padding: 13px 40px;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+    background-color: #FFF;
+    color: #28AE60;
+    text-transform: capitalize;
+}
+/* Ending Of Any Project Section */
+
+/* Starting Of Services Section */
+
+.services{
+    background-color: #2C2C2C;
+}
+.services .logo{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.services .service{
+    padding-top: 90px;
+}
+.services .useful{
+    padding: 90px;
+}
+.services .address{
+    padding: 90px;
+}
+.services .logo > img{
+    margin-bottom: 50px;
+}
+.services .logo > p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    color: #b4b4b4;
+    margin-bottom: 50px;
+    font-family: "Poppins", sans-serif;
+}
+.services .logo > i{
+    border: 1px solid white;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30%;
+    color: #e0d8d8;
+    background-color: #7d7272;
+    margin-right: 10px;
+}
+.services .logo > i:hover{
+    border: 1px solid white;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 30%;
+    color: #e0d8d8;
+    background-color: #207b46;
+    margin-right: 10px;
+}
+.services .service > h3 ,
+.services .useful > h3 ,
+.services .address > h3{
+    color: white;
+    margin-bottom: 30px;
+}
+.services .service > a ,
+.services .useful > a ,
+.services .address > a{
+    text-decoration: none;
+    color: white;
+    padding-bottom: 20px;
+    display: block;
+}
+.services .service > a:hover ,
+.services .useful > a:hover ,
+.services .address > a:hover{
+    text-decoration: none;
+    color: #28AE60;
+    padding-bottom: 20px;
+    display: block;
+}
+/* #28AE60 */
+.services .address p{
+    color: #fff;
+}
+/* Ending Of Services Section */
+
+/* Starting of footer section */
+.footer-section{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.footer-section > p{
+    font-size: 13px;
+    color: #C7C7C7;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+.footer-section > p > span{
+    color: #28AE60;
+}
+/* ending of footer section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
